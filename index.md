@@ -16,7 +16,8 @@
 #11.git add .  / git add 文件名  把文件添加到仓库里
 #12.git commit -m 'new file'
 #13.git remote add origin https://github.com/WakeUpPig/jiangwen.git
-- 将本地仓库和线上的链接起来 这设置一次就ok了
+- 将本地仓库和线上的链接起来 这设置一次就ok了  
+
 #14.git push -u origin master
 - 将文件推送到服务器里面
 - markdown语法
